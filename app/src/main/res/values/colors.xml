@@ -1,0 +1,11 @@
+<resources>
+    <!-- Other resource definitions -->
+
+    <color name="actionButton">#FF0000</color>
+    <color name="colorPrimary">#00FF00</color>
+    <color name="colorPrimaryDark">#0000FF</color>
+    <color name="colorAccent">#FFFF00</color>
+    <color name="equalButton">#FF00FF</color>
+    <color name="numberActionButton2">#FFAA00</color>
+    <color name="numberActionButton">#00AAFF</color>
+</resources>
